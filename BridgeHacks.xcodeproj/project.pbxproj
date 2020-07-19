@@ -6,40 +6,8 @@
 	objectVersion = 50;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		AEF5592D24C4B1D900B285F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF5592C24C4B1D900B285F6 /* AppDelegate.swift */; };
-		AEF5592F24C4B1D900B285F6 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF5592E24C4B1D900B285F6 /* SceneDelegate.swift */; };
-		AEF5593124C4B1D900B285F6 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF5593024C4B1D900B285F6 /* FirstViewController.swift */; };
-		AEF5593324C4B1D900B285F6 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AEF5593224C4B1D900B285F6 /* SecondViewController.swift */; };
-		AEF5593824C4B1E100B285F6 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AEF5593724C4B1E100B285F6 /* Assets.xcassets */; };
-		AEF5593B24C4B1E100B285F6 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEF5593924C4B1E100B285F6 /* LaunchScreen.storyboard */; };
-		AEF5594324C4B26600B285F6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AEF5594224C4B26600B285F6 /* Main.storyboard */; };
-		AEF5594524C4B36200B285F6 /* games.png in Resources */ = {isa = PBXBuildFile; fileRef = AEF5594424C4B36100B285F6 /* games.png */; };
-		AEF5594724C4B37300B285F6 /* forget logo.png in Resources */ = {isa = PBXBuildFile; fileRef = AEF5594624C4B37000B285F6 /* forget logo.png */; };
-		AEF5594924C4C14400B285F6 /* word search.png in Resources */ = {isa = PBXBuildFile; fileRef = AEF5594824C4C14400B285F6 /* word search.png */; };
-		AEF5594B24C4CF7E00B285F6 /* diary logo.png in Resources */ = {isa = PBXBuildFile; fileRef = AEF5594A24C4CF7D00B285F6 /* diary logo.png */; };
-		AEF5594F24C4CFA500B285F6 /* fitness.png in Resources */ = {isa = PBXBuildFile; fileRef = AEF5594E24C4CFA400B285F6 /* fitness.png */; };
-		AEF5595124C4CFAA00B285F6 /* health.png in Resources */ = {isa = PBXBuildFile; fileRef = AEF5595024C4CFAA00B285F6 /* health.png */; };
-		AEF5595324C4CFB000B285F6 /* nutrition.png in Resources */ = {isa = PBXBuildFile; fileRef = AEF5595224C4CFAF00B285F6 /* nutrition.png */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXFileReference section */
-		AEF5592924C4B1D900B285F6 /* BridgeHacks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BridgeHacks.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		AEF5592C24C4B1D900B285F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		AEF5592E24C4B1D900B285F6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
-		AEF5593024C4B1D900B285F6 /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
-		AEF5593224C4B1D900B285F6 /* SecondViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
-		AEF5593724C4B1E100B285F6 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		AEF5593A24C4B1E100B285F6 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		AEF5593C24C4B1E100B285F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		AEF5594224C4B26600B285F6 /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../ForgetMeNot.real/ForgetMeNot.real/Main.storyboard; sourceTree = "<group>"; };
-		AEF5594424C4B36100B285F6 /* games.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = games.png; path = ../../../Downloads/games.png; sourceTree = "<group>"; };
-		AEF5594624C4B37000B285F6 /* forget logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "forget logo.png"; path = "../../../Downloads/forget logo.png"; sourceTree = "<group>"; };
-		AEF5594824C4C14400B285F6 /* word search.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "word search.png"; path = "../../../Downloads/word search.png"; sourceTree = "<group>"; };
-		AEF5594A24C4CF7D00B285F6 /* diary logo.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "diary logo.png"; path = "../../../../Downloads/diary logo.png"; sourceTree = "<group>"; };
-		AEF5594E24C4CFA400B285F6 /* fitness.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = fitness.png; path = ../../../../Downloads/fitness.png; sourceTree = "<group>"; };
-		AEF5595024C4CFAA00B285F6 /* health.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = health.png; path = ../../../../Downloads/health.png; sourceTree = "<group>"; };
-		AEF5595224C4CFAF00B285F6 /* nutrition.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = nutrition.png; path = ../../../../Downloads/nutrition.png; sourceTree = "<group>"; };
+		AEF5592924C4B1D900B285F6 /* BridgeHacks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; name = BridgeHacks.app; path = "/Users/amitbhat/Documents/Programming/BridgeHacks/build/Debug-iphoneos/BridgeHacks.app"; sourceTree = "<absolute>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,39 +24,7 @@
 		AEF5592024C4B1D900B285F6 = {
 			isa = PBXGroup;
 			children = (
-				AEF5592B24C4B1D900B285F6 /* BridgeHacks */,
-				AEF5592A24C4B1D900B285F6 /* Products */,
-				AEF5594424C4B36100B285F6 /* games.png */,
-				AEF5594624C4B37000B285F6 /* forget logo.png */,
-				AEF5594824C4C14400B285F6 /* word search.png */,
 			);
-			sourceTree = "<group>";
-		};
-		AEF5592A24C4B1D900B285F6 /* Products */ = {
-			isa = PBXGroup;
-			children = (
-				AEF5592924C4B1D900B285F6 /* BridgeHacks.app */,
-			);
-			name = Products;
-			sourceTree = "<group>";
-		};
-		AEF5592B24C4B1D900B285F6 /* BridgeHacks */ = {
-			isa = PBXGroup;
-			children = (
-				AEF5594224C4B26600B285F6 /* Main.storyboard */,
-				AEF5592C24C4B1D900B285F6 /* AppDelegate.swift */,
-				AEF5594A24C4CF7D00B285F6 /* diary logo.png */,
-				AEF5594E24C4CFA400B285F6 /* fitness.png */,
-				AEF5595024C4CFAA00B285F6 /* health.png */,
-				AEF5595224C4CFAF00B285F6 /* nutrition.png */,
-				AEF5592E24C4B1D900B285F6 /* SceneDelegate.swift */,
-				AEF5593024C4B1D900B285F6 /* FirstViewController.swift */,
-				AEF5593224C4B1D900B285F6 /* SecondViewController.swift */,
-				AEF5593724C4B1E100B285F6 /* Assets.xcassets */,
-				AEF5593924C4B1E100B285F6 /* LaunchScreen.storyboard */,
-				AEF5593C24C4B1E100B285F6 /* Info.plist */,
-			);
-			path = BridgeHacks;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -135,7 +71,7 @@
 				Base,
 			);
 			mainGroup = AEF5592024C4B1D900B285F6;
-			productRefGroup = AEF5592A24C4B1D900B285F6 /* Products */;
+			productRefGroup = AEF5592024C4B1D900B285F6;
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
@@ -149,16 +85,6 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AEF5594324C4B26600B285F6 /* Main.storyboard in Resources */,
-				AEF5594724C4B37300B285F6 /* forget logo.png in Resources */,
-				AEF5594F24C4CFA500B285F6 /* fitness.png in Resources */,
-				AEF5594524C4B36200B285F6 /* games.png in Resources */,
-				AEF5593B24C4B1E100B285F6 /* LaunchScreen.storyboard in Resources */,
-				AEF5594924C4C14400B285F6 /* word search.png in Resources */,
-				AEF5595324C4CFB000B285F6 /* nutrition.png in Resources */,
-				AEF5594B24C4CF7E00B285F6 /* diary logo.png in Resources */,
-				AEF5595124C4CFAA00B285F6 /* health.png in Resources */,
-				AEF5593824C4B1E100B285F6 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -169,25 +95,10 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				AEF5593324C4B1D900B285F6 /* SecondViewController.swift in Sources */,
-				AEF5593124C4B1D900B285F6 /* FirstViewController.swift in Sources */,
-				AEF5592D24C4B1D900B285F6 /* AppDelegate.swift in Sources */,
-				AEF5592F24C4B1D900B285F6 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
 /* End PBXSourcesBuildPhase section */
-
-/* Begin PBXVariantGroup section */
-		AEF5593924C4B1E100B285F6 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				AEF5593A24C4B1E100B285F6 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		AEF5593D24C4B1E100B285F6 /* Debug */ = {
