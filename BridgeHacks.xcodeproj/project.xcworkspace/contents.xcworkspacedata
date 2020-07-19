@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:../../ForgetMeNot.real/ForgetMeNot.real/Main.storyboard">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../Downloads/diary logo.png">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../Downloads/fitness.png">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../Downloads/health.png">
+   </FileRef>
+   <FileRef
+      location = "group:../../../../Downloads/nutrition.png">
+   </FileRef>
+   <FileRef
+      location = "self:BridgeHacks.xcodeproj">
+   </FileRef>
+</Workspace>
